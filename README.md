@@ -23,5 +23,5 @@ THEN the saved events persist
 ![Work Day Scheduler: my example](./Assets/example.png)
 
 ## My Links
-Deployed link:
-Repository link:
+Deployed link:https://justinkvang.github.io/Work-Day-Scheduler/
+Repository link:https://github.com/justinkvang/Work-Day-Scheduler
